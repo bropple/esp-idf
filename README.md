@@ -1,7 +1,7 @@
 # Espressif IoT Development Framework
 
-Requires virtualenv version 16.7.9
- python -m pip install --upgrade virtualenv==16.7.9
+Requires virtualenv version 16.7.9:
+python -m pip install --upgrade virtualenv==16.7.9
 
 [![Documentation Status](https://readthedocs.com/projects/espressif-esp-idf/badge/?version=latest)](https://docs.espressif.com/projects/esp-idf/en/latest/?badge=latest)
 
